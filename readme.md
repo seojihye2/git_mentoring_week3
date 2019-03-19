@@ -12,7 +12,7 @@ qnagfgadfdagit
 git의 3가지 area
 ![area](area.png)
 
->인용구는 여기서
+>인용구는 여기서 쓴다.
 
 줄바꿈안하고  
 계속쓰면(줄바꿈은 띄어쓰기 2번)
