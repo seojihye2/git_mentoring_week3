@@ -29,4 +29,3 @@ System.out.print
 ```c
 printf("ghhg");
 ```
-1
